@@ -9,6 +9,5 @@
 
 ### Često postavljana pitanja
 
-- [Како да промените микрофон и камеру? (Firefox)](help-config-firefox.md)
 - [Како да промените излазни аудио уређај? (Firefox | Safari)](help-config-speaker.md)
 - [Како да одблокирате камеру и микрофон?](help-unblock-devices.md)

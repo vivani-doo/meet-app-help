@@ -9,7 +9,5 @@ Das Repository befindet sich unter https://github.com/meet-rs-api/meet-help und 
 
 ### FAQ (Häufig gestellte Fragen)
 
-- [Wie wechselt man Mikrofon und Kamera? (Firefox)](help-config-firefox.md)
 - [Wie ändere ich Lautsprecher / Kopfhörer? (Firefox | Safari)](help-config-speaker.md)
 - [Wie kann ich Kamera und Mikrofon entsperren?](help-unblock-devices.md)
-

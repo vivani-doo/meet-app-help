@@ -9,6 +9,5 @@ Le dépôt de git est situé à https://github.com/meet-rs-api/meet-help et nous
 
 ### FAQ (Questions fréquemment posées)
 
-- [Comment changer de microphone et de caméra? (Firefox)](help-config-firefox.md)
 - [Comment changer de haut-parleur/casque? (Firefox | Safari)](help-config-speaker.md)
 - [Comment débloquer votre caméra et votre microphone?](help-unblock-devices.md)
